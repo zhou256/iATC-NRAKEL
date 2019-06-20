@@ -1,0 +1,14 @@
+Supp-S1       //drugs that has 'A' label in its first layer of ATC code.
+Supp-S2       //drugs that has 'B' label in its first layer of ATC code.
+Supp-S3       //drugs that has 'C' label in its first layer of ATC code.
+Supp-S4       //drugs that has 'D' label in its first layer of ATC code.
+Supp-S5       //drugs that has 'G' label in its first layer of ATC code.
+Supp-S6       //drugs that has 'H' label in its first layer of ATC code.
+Supp-S7       //drugs that has 'J' label in its first layer of ATC code.
+Supp-S8       //drugs that has 'L' label in its first layer of ATC code.
+Supp-S9       //drugs that has 'M' label in its first layer of ATC code.
+Supp-S10      //drugs that has 'N' label in its first layer of ATC code.
+Supp-S11      //drugs that has 'P' label in its first layer of ATC code.
+Supp-S12      //drugs that has 'R' label in its first layer of ATC code.
+Supp-S13      //drugs that has 'S' label in its first layer of ATC code.
+Supp-S14      //drugs that has 'V' label in its first layer of ATC code.
