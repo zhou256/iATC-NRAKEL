@@ -3,7 +3,7 @@
 ***Functions*** : Recognizing the Anatomical Therapeutic Chemical (ATC) classes of first level for given drugs.
 Seven drug networks were constructed according to the chemical associations reported in STITCH and KEGG, from which informative drug features were produced via Mashup. Obtained features were tackled by random k-Labelsets (RAKEL) algorithm, in which support vector machine (SVM) was adopted as prediction engine, to build the multi-label classifier, iATC-NRAKEL. Through rigorous 10-fold cross-validation, iATC-NRAKEL yielded the absolute true of 74.51% and accuracy of 76.56%. The Jackknife test results were 75.93% (absolute true) and 77.86% (accuracy), which were much higher than those yiedled by all previous classifers.
 
-<div align=center><img src="https://github.com/zhou256/iATC-RAKEL/blob/master/iATC-NRAKEL.jpg" width="1100" height="650" />
+<div align=center><img src="https://github.com/zhou256/iATC-NRAKEL/blob/master/iATC-NRAKEL.jpg" width="1100" height="650" />
 </div>
 
 
